@@ -41,9 +41,7 @@ Instead of the experience replay used in DQN, the ATA3C asynchronously execute m
 
 
 
-### Logs
 
-[log1 - 30000K steps](./logs/Breakout-v0_test_log)
 
 
 
