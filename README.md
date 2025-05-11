@@ -30,11 +30,9 @@ Instead of the experience replay used in DQN, the ATA3C asynchronously execute m
 
 
 
-### Result (training)
 
-#### Test score per 10 episodes as training goes on
 
-> Suddenly goes down may because of the action 'fire' problem. (We don't use wrappers.)
+
 
 
 
